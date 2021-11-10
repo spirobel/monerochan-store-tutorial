@@ -41,15 +41,15 @@ certbot --apache -d example.com -d www.example.com
 
 steps with video timestamps
 
-1:15 setup digitalocean project
-1:47 one click wordpress install
-2:41 domain configuration
-4:35 root console: setup and create ssl cert
-9:01 install WooCommerce
-10:45 install monero payment gateway
-11:40 root console: install php-bcmath
-12:50 connect seller wallet to monero payment gateway
-14:40 create a product
-15:45 switch display currency
-17:00 buyer buy flow
-18:49 sellers side
+* 1:15 setup digitalocean project
+* 1:47 one click wordpress install
+* 2:41 domain configuration
+* 4:35 root console: setup and create ssl cert
+* 9:01 install WooCommerce
+* 10:45 install monero payment gateway
+* 11:40 root console: install php-bcmath
+* 12:50 connect seller wallet to monero payment gateway
+* 14:40 create a product
+* 15:45 switch display currency
+* 17:00 buyer buy flow
+* 18:49 sellers side
