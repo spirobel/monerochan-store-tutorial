@@ -1,5 +1,5 @@
 # monerochan-store-tutorial
-How to sell stuff online in the most based way.
+How to sell stuff online in the most based way. [VIDEO](https://www.youtube.com/watch?v=9fsdWJo2QFs)
 # Stuff you need to get
 
 ## Get a VPS
