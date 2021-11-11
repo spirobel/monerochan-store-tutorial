@@ -54,6 +54,6 @@ steps with video timestamps
 * 17:00 buyer buy flow
 * 18:49 sellers side
 
-#for the pros
+# for the pros
 
 the wonderful woocommerce monero payment gateway uses xmrchain.net as a node by default. But you can run your own node if you want. You just need to drop into your root console again and run a few commands. Consult the [documentation!](https://github.com/monero-integrations/monerowp)
